@@ -1,6 +1,7 @@
 import {StudentType} from "./02";
 import {addSkill, doesStudentLiveIn, makeStudentActive} from "./03";
 
+let hello;
 let student: StudentType;
 beforeEach(() => {
     student = {
