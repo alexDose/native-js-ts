@@ -74,10 +74,10 @@ function getIndex(arr, num) {
 console.log(getIndex(a1, b1));*/
 
 let users = {
-'101': {id:2, name: 'dima'},
-    '123124': {id:122321, name: 'lena'},
-    '31': {id:3123, name: 'kolya'},
-    '1': {id:1, name: 'gena'}
+    '101': {id: 2, name: 'dima'},
+    '123124': {id: 122321, name: 'lena'},
+    '31': {id: 3123, name: 'kolya'},
+    '1': {id: 1, name: 'gena'}
 }
 let user = {id: 100500, name: 'igor'}
 users[user.id] = user
